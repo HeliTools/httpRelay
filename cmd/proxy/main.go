@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"dannyvanheumen.nl/pkg/httpRelay"
+	"github.com/HeliTools/httpRelay/httpRelay"
 )
 
 func main() {
