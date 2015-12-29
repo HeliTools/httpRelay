@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/HeliTools/httpRelay.svg)](https://travis-ci.org/HeliTools/httpRelay)
+
 # HTTP proxy to SOCKS 5 proxy relay
 
 Single-purpose HTTP proxy relaying requests to an existing (external) SOCKS 5 proxy server. This tool is useful in the case where the SOCKS proxy is the only proxy available, but the application that you wish to use does not support SOCKS. This little program is a welcome addition to SSH's capability of setting up a SOCKS proxy server.
