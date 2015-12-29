@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"dannyvanheumen.nl/pkg/httpRelay"
+	"github.com/helitools/httprelay"
 
 	"golang.org/x/net/proxy"
 )
